@@ -1,0 +1,14 @@
+C:\GIthub\pierwszy rok\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\GIthub\pierwszy rok\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\GIthub\pierwszy rok\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\GIthub\pierwszy rok\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\GIthub\pierwszy rok\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\GIthub\pierwszy rok\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIthub\pierwszy rok\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\GIthub\pierwszy rok\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+C:\GIthub\pierwszy rok\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\GIthub\pierwszy rok\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\GIthub\pierwszy rok\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\GIthub\pierwszy rok\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\GIthub\pierwszy rok\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\GIthub\pierwszy rok\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll

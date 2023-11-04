@@ -1,0 +1,4 @@
+C:\GIthub\pierwszy rok\wykłady cwiczenia\obj\Debug\net6.0\wykłady cwiczenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIthub\pierwszy rok\wykłady cwiczenia\obj\Debug\net6.0\wykłady cwiczenia.AssemblyInfoInputs.cache
+C:\GIthub\pierwszy rok\wykłady cwiczenia\obj\Debug\net6.0\wykłady cwiczenia.AssemblyInfo.cs
+C:\GIthub\pierwszy rok\wykłady cwiczenia\obj\Debug\net6.0\wykłady cwiczenia.csproj.CoreCompileInputs.cache

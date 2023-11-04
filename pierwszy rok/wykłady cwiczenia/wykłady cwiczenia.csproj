@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>wykłady_cwiczenia</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageIcon></PackageIcon>
+    <ApplicationIcon>jeep_car_adventure_suv_transportation_vehicle_off_roading_icon_258730.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="jeep_car_adventure_suv_transportation_vehicle_off_roading_icon_258730.ico" />
+  </ItemGroup>
+
+</Project>
